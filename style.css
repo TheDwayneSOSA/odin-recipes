@@ -1,0 +1,16 @@
+h3 {
+    color: red;
+}
+
+
+.ingredienti {
+    border: 1px solid black;
+    background-color: yellow;
+    display: inline-block;
+    padding-right: 40px;
+}
+
+.ingredienti .titolo {
+    padding-left: 35px;
+    background-color: goldenrod;
+}
